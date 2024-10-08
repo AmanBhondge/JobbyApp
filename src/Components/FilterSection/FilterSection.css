@@ -1,0 +1,52 @@
+.main-cont {
+    padding: 20px;
+}
+
+.profile-cont {
+    width: 100%;
+    background-image: url("./asset/profile-bg.png");
+    background-size: cover;
+    border-radius: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+.profile-cont img {
+    margin: 20px;
+}
+
+.profile-cont h1 {
+    color: navy;
+}
+
+.profile-cont p {
+    margin: 20px;
+}
+
+.seperater {
+    border-bottom: 1px solid lightgrey;
+}
+
+.checkbox-cont {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-heading {
+    color: lightgray;
+
+}
+
+.checkbox-input {
+   margin-top: 20px;
+}
+
+.fliters-list-item {
+    list-style: none;
+}
+
+.filter-label {
+    color: lightgray;
+    margin-left: 8px;
+
+}

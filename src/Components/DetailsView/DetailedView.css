@@ -1,0 +1,103 @@
+.container{
+    padding-top: 20px;
+}
+
+.dl-cont{
+    width: 100%;
+    border: 3px solid white;
+    padding: 20px;
+    border-top-left-radius: 44px;
+    border-bottom-right-radius: 44px;
+}
+
+.img-other-detail-cont{
+    width: 100%;
+    display: flex;
+}
+
+.detail-cont-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 34px;
+}
+
+.dl-title-rating{
+    margin-left: 18px;
+}
+
+.rating-dl{
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.dl-lc-et-pkg{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+
+.lc-et{
+    width: 28%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+}
+
+.visit{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.visit h5 a{
+    text-decoration: underline;
+    color: white;
+}
+
+.skill-ullist{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+.skill-list{
+    text-align: center;
+}
+
+.skill-list img{
+    width: 50%;
+}
+
+.life-at-cy{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.life-at-cy p{
+    text-align: justify;
+    padding: 18px;
+}
+
+.life-at-cy img{
+    width: 100%;
+    border: 2px solid white;
+    border-radius: 24px;
+}
+
+.similar-items{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}

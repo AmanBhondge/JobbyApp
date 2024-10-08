@@ -1,0 +1,22 @@
+.diplay-jobs-card{
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: black;
+    list-style: none;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.logo-rating-cont{
+    display: flex;
+}
+.title-rating-cont{
+    margin-left: 15px;
+}
+.mid-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid;
+}

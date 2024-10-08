@@ -1,0 +1,40 @@
+.jobs-cont {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    padding: 20px;
+    background-color: rgb(52, 51, 51);
+}
+
+.jobs-filter {
+    width: 30%;
+    padding-left: 20px;
+}
+
+.jobs-search {
+    width: 70%;
+    /* text-align: center; */
+}
+
+.search-bar {
+    width: 50%;
+    margin: 20px;
+    margin-right: 0;
+    margin-left: 0;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: black;
+    height: 40px;
+
+}
+.search-bar-cont {
+    display: flex;
+    align-items: center;
+
+}
+
+.mybtn {
+    height: 40px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
